@@ -6,7 +6,7 @@ Code Review Project
 
 This project utilizes or includes the following resources:
 
-- [albertkantwi](https://github.com/albertkantwi) - Description of the resource and its license.
+- [albertkantwi](https://github.com/albertkantwi)
 
 Please make sure to review and comply with the licenses of these resources when using this project.
 
@@ -14,6 +14,6 @@ Please make sure to review and comply with the licenses of these resources when 
 
 We would like to express our gratitude to the following individuals and projects for their contributions and inspiration:
 
-- [albertkantwi](https://github.com/albertkantwi) - Description of the contribution or inspiration.
+- [albertkantwi](https://github.com/albertkantwi)
 
 We appreciate their efforts and the impact they have had on this project.
